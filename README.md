@@ -1,1 +1,3 @@
-# CS305
+Artemis Financial is a financial institution looking to update their website and with that also updating thier security systems. After analysing and refactoring their code I used Maven dependancies checks to see what the vulnerablilities in their their party APIs. Then I also tried to fix any vulnerabilities in their code that I could find. One of the main challenges was generating the checksum in thedashboard for verification that it worked.
+
+To increase the security I implemented a SHA-256 cipher algorithm which is shown in the checksum verification. I did multiple test to make sure that the system was running correctly and used dependancy checks to find any vulnerabilities that could be covered too.
